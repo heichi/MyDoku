@@ -3,212 +3,212 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/basics/installation/test/</loc>
+    <loc>http://example.org/basics/installation/test/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cont/pages/</loc>
+    <loc>http://example.org/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/</loc>
+    <loc>http://example.org/basics/</loc>
   </url>
   
   <url>
-    <loc>/cont/archetypes/</loc>
+    <loc>http://example.org/cont/archetypes/</loc>
   </url>
   
   <url>
-    <loc>/cont/</loc>
+    <loc>http://example.org/cont/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/requirements/</loc>
+    <loc>http://example.org/basics/requirements/</loc>
   </url>
   
   <url>
-    <loc>/cont/markdown/</loc>
+    <loc>http://example.org/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/shortcodes/</loc>
+    <loc>http://example.org/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/installation/</loc>
+    <loc>http://example.org/basics/installation/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/configuration/</loc>
+    <loc>http://example.org/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/cont/menushortcuts/</loc>
+    <loc>http://example.org/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/style-customization/</loc>
+    <loc>http://example.org/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/cont/icons/</loc>
+    <loc>http://example.org/cont/icons/</loc>
   </url>
   
   <url>
-    <loc>/cont/i18n/</loc>
+    <loc>http://example.org/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://example.org/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/shortcodes/attachments/</loc>
+    <loc>http://example.org/shortcodes/attachments/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/button/</loc>
+    <loc>http://example.org/shortcodes/button/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/shortcodes/children/</loc>
+    <loc>http://example.org/shortcodes/children/</loc>
   </url>
   
   <url>
-    <loc>/credits/</loc>
+    <loc>http://example.org/credits/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/expand/</loc>
+    <loc>http://example.org/shortcodes/expand/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/shortcodes/mermaid/</loc>
+    <loc>http://example.org/shortcodes/mermaid/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/notice/</loc>
+    <loc>http://example.org/shortcodes/notice/</loc>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>http://example.org/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://example.org/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://example.org/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>http://example.org/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/showcase/</loc>
+    <loc>http://example.org/showcase/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/siteparam/</loc>
+    <loc>http://example.org/shortcodes/siteparam/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/_index.fr/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/_index.fr/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.fr/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.fr/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.fr/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.fr/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.fr/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.fr/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>http://example.org/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-2/</loc>
+    <loc>http://example.org/shortcodes/children/children-2/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-3/</loc>
+    <loc>http://example.org/shortcodes/children/children-3/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-4/</loc>
+    <loc>http://example.org/shortcodes/children/children-4/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/test/</loc>
+    <loc>http://example.org/shortcodes/children/test/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/children/children-2/test3/</loc>
+    <loc>http://example.org/shortcodes/children/children-2/test3/</loc>
   </url>
   
 </urlset>
