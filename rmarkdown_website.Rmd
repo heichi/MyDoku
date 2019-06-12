@@ -1,28 +1,31 @@
 ---
-title: "RMarkdown Webseite erstellen"
-output: html_document
+title: "Erstellen von Webseiten mit RStudio und R Markdown"
+author:  "[Chizzali Heini](https://github.com/heichi) at [NCEAS](https://www.nceas.ucsb.edu/), 12/14/16"
+output:
+  html_document:
+    fig_width: 1
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+----
 
-## R Markdown
+Mit [RStudio's R Markdown] (http://rmarkdown.rstudio.com/) können Webseiten erstellt und auf [Github] (http://github.com) kostenlos gehostet werden.  Es ist eine nützliche Möglichkeit, Dokumentation und Beispiele mit dem gleichen reproduzierbaren Workflow zu erstellen.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+***Das Erstellen von Websites mit R Markdown kann ohne Kenntnis von R oder HTML, CSS usw. erfolgen***. Je mehr Sie wissen, desto komplexer und ansprechender kann Ihre Webseite sein. Dieses Tutorial ist aus einer Vielzahl von tollen Beispielen und Ressourcen erstellt worden, die man ebenfalls lesen sollte - es gibt viele Links im Internet.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Der beste Weg um zu verstehen wie es funktioniert ist es einfach selber auszuprobieren. Voraussetzungen für das Gelingen ist folgendes: 
 
-```{r cars}
-summary(cars)
-```
+1. [RStudio](https://www.rstudio.com/products/rstudio/download/) installieren
+1. Ein [GitHub](http://github.com) Account erstellen
+1. Eigenen Computer einrichten um mit GitHub zu kommunizieren:
+    - [Desktop App](https://desktop.github.com/) installieren
 
-## Including Plots
+----
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+**Beispiele:**
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+R Markdown wurde für den Ocean Health Index verwendet:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global).  
+Weiters ein kurzes Video über R Markdown Webseites [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html). 
+
+**Links:**
+[Emily C. Zabor: Creating Websites in R](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
