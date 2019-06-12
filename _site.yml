@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Website"
+      href: rmarkdown_website.html
     - text: "About"
       href: about.html
 output_dir: 'docs'
