@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output_dir: 'sasian'
+output_dir: 'docs'
 output:
   html_document:
     theme: cosmo
